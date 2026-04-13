@@ -1,4 +1,4 @@
-# [Rustlings](https://rustlings.rust-lang.org) 🦀
+# [Rustlings](https://rustlings.rust-lang.org) 🦀 ⭐
 
 ## This are my **own solutions** for the exercises - **rub3ck0r3**
 
